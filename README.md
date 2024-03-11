@@ -25,4 +25,31 @@ You'll also need access to a SQL database (e.g., MySQL, PostgreSQL) and Power BI
 ## Usage
 1. Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/project-notebook.git
+git clone https://github.com/khangsheng1/solo_projects
+
+
+2. Install the required Python dependencies:
+
+pip install -r requirements.txt
+
+
+3. Open the Jupyter Notebook server:
+
+jupyter notebook
+
+
+4. Navigate to the notebook you wish to run and execute the cells as instructed.
+
+5. Once you have generated the fake data and uploaded it to your SQL database, you can connect to the database using Power BI and perform analysis.
+
+## Notebook Descriptions
+- **01_Data_Generation.ipynb**: This notebook demonstrates how to generate synthetic data using the Faker library.
+- **02_SQL_Upload.ipynb**: This notebook guides you through the process of uploading the generated data to a SQL database using SQLAlchemy.
+- **03_PowerBI_Analysis.pbix**: This Power BI file contains pre-configured connections to the SQL database and visualizations for data analysis.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to contribute to this project by submitting pull requests or opening issues for any suggestions or problems you encounter.
+
+Happy coding! 🚀
