@@ -45,8 +45,8 @@ The scripts utilize the Faker library to generate realistic fake patient data in
 ## Files
 
 - `PatientMaker.ipynb`: Python script to generate fake patient data.
-- `save_tables.ipynb`: Saves table generated into SQL database
 - `generate_encounters.py`: Python script to generate fake patient encounters.
+- `save_tables.ipynb`: Saves table generated into SQL database
 - `README.md`: This README file.
 
 ## Contributing
