@@ -27,7 +27,7 @@ The scripts utilize the Faker library to generate realistic fake patient data in
 4. Clone this repository:
 
     ```
-        https://github.com/khangsheng1/solo_projects/tree/main/MockPatient
+    https://github.com/khangsheng1/solo_projects/tree/main/MockPatient
     ```
 
 ## Usage
