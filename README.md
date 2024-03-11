@@ -16,7 +16,7 @@ This project aims to demonstrate a workflow for generating synthetic data, uploa
 To use the notebooks in this repository, you'll need to have the following prerequisites installed:
 - Python (>=3.6)
 - Jupyter Notebook
-- SQLAlchemy
+- MySQL Connector Python (mysql-connector-python)
 - Pandas
 - Faker
 
