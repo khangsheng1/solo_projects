@@ -1,6 +1,6 @@
 # Project Notebook: solo_projects
 
-Welcome to the GitHub repository for our project notebook! This repository contains a set of Jupyter Notebooks aimed at generating fake data sets, uploading them to a SQL database, and subsequently analyzing the data in Power BI. This README will guide you through the contents of the repository and how to use the notebooks effectively.
+Welcome to my personal project notebook on GitHub! This repository is dedicated to my learning journey in Python, MySQL, and Power BI. It contains a series of Jupyter Notebooks designed to help me train and improve my skills by generating fake datasets, uploading them to a SQL database, and analyzing the data in Power BI. This README will guide you through the contents of the repository and how to effectively utilize these notebooks for learning and skill development
 
 ## Table of Contents
 1. [Introduction](#introduction)
