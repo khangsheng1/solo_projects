@@ -43,9 +43,9 @@ jupyter notebook
 5. Once you have generated the fake data and uploaded it to your SQL database, you can connect to the database using Power BI and perform analysis.
 
 ## Notebook Descriptions
-- **01_Data_Generation.ipynb**: This notebook demonstrates how to generate synthetic data using the Faker library.
-- **02_SQL_Upload.ipynb**: This notebook guides you through the process of uploading the generated data to a SQL database using SQLAlchemy.
-- **03_PowerBI_Analysis.pbix**: This Power BI file contains pre-configured connections to the SQL database and visualizations for data analysis.
+- **PetNames.ipynb**: This notebook serves as an introduction to Python and SQL. It demonstrates how to generate fake pet names and upload them to an SQL database.
+- **MockPatients.ipynb**: This project generates fake patient data for a fictional small town in Arkansas. It simulates encounters and billing cycles for these mock patients, generating fake encounters and billing them at regular intervals.
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
