@@ -36,8 +36,8 @@ The scripts utilize the Faker library to generate realistic fake patient data in
 2. Run the Python scripts to generate fake patient information and encounters:
 
     ```
-    python generate_patient_data.py
-    python generate_encounters.py
+    python PatientMaker.ipynb
+    python save_tables.ipynb
     ```
 
 3. Verify that the data has been inserted into your MySQL database.
