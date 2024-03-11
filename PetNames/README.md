@@ -15,3 +15,7 @@ You can install the required Python libraries using pip:
 
 ```bash
 pip install pandas faker mysql-connector-python
+
+## Extra
+
+This doesn't make a folder or anything for the generated CSV files, nor does it set up a database for you in SQL. That will have to be done manually. The script will ask where you want to save files and you may have to edit the code to fit your SQL database.
