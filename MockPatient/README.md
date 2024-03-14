@@ -44,4 +44,4 @@ The generated CSV files will be saved in the specified folder path. If the folde
 
 This script was created to gain experience in uploading data to MySQL and pulling that data into PowerBI for creating semantic models and analysis.
 
-This script is intended for generating mock data for testing and demonstration purposes only. It does not contain real patient information.
+This script is intended for generating mock data for testing and demonstration purposes only. It does not contain real patient information. If any names or dates of birth match any real person it is purely coincidental.
