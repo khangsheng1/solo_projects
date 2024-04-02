@@ -40,6 +40,10 @@ The script generates the following CSV files:
 
 The generated CSV files will be saved in the specified folder path. If the folder doesn't exist, the script will create it.
 
+## Additional Files
+- `Dashboard.pdf`: PDF file containing the dashboard created from the generated data.
+- `activate.bat`: Windows batch file used with task scheduler on Windows to auto-run the `GenerateEncounter` Jupyter notebook.
+
 ## Note
 
 This script was created to gain experience in uploading data to MySQL and pulling that data into PowerBI for creating semantic models and analysis.
