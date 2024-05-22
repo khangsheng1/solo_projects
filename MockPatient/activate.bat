@@ -1,2 +1,2 @@
-call C:\Users\khang\anaconda3\Scripts\activate.bat & jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook
---execute C:\Users\khang\Desktop\PowerBI Project\MockPatient\GenerateEncounter.ipynb
+call C:\Users\*user-name*\anaconda3\Scripts\activate.bat & jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook
+--execute C:\Users\*user-name\*path-to-project-folder\MockPatient\GenerateEncounter.ipynb
