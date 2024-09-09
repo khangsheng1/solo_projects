@@ -49,6 +49,7 @@ You can install the dependencies using:
 
 ```bash
 pip install asyncio tqdm edge-tts pyttsx3 ebooklib beautifulsoup4
+```
 
 Contributing
 Feel free to contribute by adding new features, improving existing ones, or reporting any issues. Pull requests are always welcome!
