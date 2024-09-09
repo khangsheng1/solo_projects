@@ -38,7 +38,9 @@ This script demonstrates the usage of the `edge_tts` library for fetching and li
 
 ## Demonstration
 
-A small demonstration has been included in the repository to show the use of these scripts. Simply run the TTS_BUILD script and select the short passage to convert the TXT file to an MP3 file. You can use the .
+A small demonstration has been included in the repository to show the use of these scripts. Simply run the TTS_BUILD script and select the short passage to convert the TXT file to an MP3 file. You can use the tts_testing_different_librarires script to test out the different voices included in edge_tts.
+
+This has been by far the best TTS library I have used so. 
 
 ### Requirements
 
