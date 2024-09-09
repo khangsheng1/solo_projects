@@ -38,7 +38,7 @@ This script demonstrates the usage of the `edge_tts` library for fetching and li
 
 ## Demonstration
 
-A small demonstration has been included in the repository to show the use of these scripts. Simply run any script according to its intended function to see how it performs text-to-speech conversion or EPUB-to-text extraction.
+A small demonstration has been included in the repository to show the use of these scripts. Simply run the TTS_BUILD script and select the short passage to convert the TXT file to an MP3 file. You can use the .
 
 ### Requirements
 
