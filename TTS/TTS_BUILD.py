@@ -6,6 +6,7 @@ from tqdm import tqdm  # Import the tqdm library for the progress bar
 import edge_tts  # type: ignore
 
 async def text_to_speech(text, volume="0%", voice="en-US-JennyNeural", output_media="output.mp3"):
+    # Default voice set to en-US-JennyNeural, change in select_files_and_convert() if you want to try a different voice
     # Create an instance of the Communicate class with the desired text, voice, and parameters
     communicate = edge_tts.Communicate(
         text=text,
@@ -21,6 +22,7 @@ async def text_to_speech(text, volume="0%", voice="en-US-JennyNeural", output_me
                 audio_file.write(chunk["data"])
 
 async def convert_text_file_to_speech(input_file, output_dir, volume="+0%", voice="en-US-JennyNeural"):
+    # Default voice set to en-US-JennyNeural, change in select_files_and_convert() if you want to try a different voice
     # Define the output file path
     base_filename = os.path.splitext(os.path.basename(input_file))[0]
     output_media = os.path.join(output_dir, f"{base_filename}.mp3")
