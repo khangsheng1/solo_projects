@@ -5,7 +5,7 @@ This repository contains multiple Python scripts for converting text files and E
 ## Scripts Overview
 
 ### 1. `TTS_BUILD.py`
-This script utilizes the `edge_tts` library for converting text files to speech using Microsoft's Azure Text-to-Speech voices. The user can select multiple text files and an output directory through a graphical user interface (GUI) powered by `tkinter`. The progress of the conversion is displayed using `tqdm` for a visual progress bar.
+This script utilizes the `edge_tts` library for converting text files to speech using Edge Text-to-Speech voices. The user can select multiple text files and an output directory through a graphical user interface (GUI) powered by `tkinter`. The conversion progress is displayed using `tqdm` for a visual progress bar.
 
 #### Key Features:
 - Converts multiple text files to audio (MP3 format) using Azure TTS voices.
@@ -30,7 +30,7 @@ A script for extracting text content from EPUB files and saving it as a plain te
 - Handles warnings related to the EPUB parsing library.
 
 ### 4. `tts_testing_different_libraries.py`
-This script demonstrates the usage of the `edge_tts` library for fetching and listing available voices. It can be helpful for users to know which voices are available in their Azure Text-to-Speech account.
+This script demonstrates the usage of the `edge_tts` library for fetching and listing available voices. It can be helpful for users to know which voices are available in their Edge Text-to-Speech account.
 
 #### Key Features:
 - Fetches and displays available Azure TTS voices.
